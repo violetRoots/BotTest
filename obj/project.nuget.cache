@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "45nL5E+sL6yDexg2d0lrMgGmTgJCxKY2NhdMIlFe+wJjchiwKnJ3xUwmU5cgDdlfE2QKTgVJ/860sMgZla0IXg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\BotTest\\BotTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zirael\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
